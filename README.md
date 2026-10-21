@@ -9,7 +9,13 @@ Advanced Programming coursework. This repository is the one to review: every exa
 | PC classwork | [`builder/Classwork`](builder/Classwork) | A director walks a builder through a fixed recipe, and a fluent builder sets each part of a PC. |
 | HTTP request | [`builder/Http request`](builder/Http%20request) | A fluent builder assembles method, URL, headers, body, and a secure flag, then sends the request. |
 
-Each folder has its own README with what the classes do and how to run it. Both examples need Java 17 or newer.
+Each folder has its own README with what the classes do and how to run it. The examples need Java 17 or newer.
+
+## Singleton
+
+| Example | Folder | What it shows |
+| --- | --- | --- |
+| Singleton | [`singleton`](singleton) | Starting point for the Singleton examples. |
 
 ## Adding the next example
 
