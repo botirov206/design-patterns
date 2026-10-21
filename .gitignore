@@ -1,5 +1,10 @@
-# Example projects are separate repositories. Do not vendor them here.
-builder/
+# This repository is an index. Local example folders stay untracked.
+/*
+!.gitignore
+!README.md
+!catalog.json
+!scripts/
+!scripts/**
 
 .vscode/
 .idea/
