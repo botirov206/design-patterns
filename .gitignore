@@ -1,0 +1,9 @@
+# Example projects are separate repositories. Do not vendor them here.
+builder/
+
+.vscode/
+.idea/
+*.class
+out/
+bin/
+.DS_Store
