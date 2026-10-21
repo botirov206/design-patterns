@@ -1,14 +1,17 @@
-# This repository is an index. Local example folders stay untracked.
-/*
-!.gitignore
-!README.md
-!catalog.json
-!scripts/
-!scripts/**
-
-.vscode/
-.idea/
+# Compiled output
 *.class
 out/
 bin/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.classpath
+.project
+.factorypath
+.apt_generated
+
+# OS
 .DS_Store
