@@ -17,6 +17,12 @@ Each folder has its own README with what the classes do and how to run it. The e
 | --- | --- | --- |
 | Singleton | [`creational/singleton`](creational/singleton) | Starting point for the Singleton examples. |
 
+## Bridge
+
+| Example | Folder | What it shows |
+| --- | --- | --- |
+| Bridge classwork | [`structural/bridge/classwork`](structural/bridge/classwork) | Starting point for the Bridge pattern classwork. |
+
 ## Adding the next example
 
 Create a folder in this repository, for example `creational/singleton/Logger`, put the source and a README there, then commit and push **this** repository. New examples are not published as separate GitHub repositories.
