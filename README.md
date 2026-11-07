@@ -7,7 +7,7 @@ Advanced Programming coursework. This repository is the one to review: every exa
 | Example | Folder | What it shows |
 | --- | --- | --- |
 | PC classwork | [`creational/builder/Classwork`](creational/builder/Classwork) | A director walks a builder through a fixed recipe, and a fluent builder sets each part of a PC. |
-| HTTP request | [`creational/builder/Http request`](creational/builder/Http%20request) | A fluent builder assembles method, URL, headers, body, and a secure flag, then sends the request. |
+| HTTP request | [`creational/builder/Http request`](creational/builder/Http%20request) | A fluent builder assembles a request. A mock sender prints it, and a real sender performs the HTTP call. |
 
 Each folder has its own README with what the classes do and how to run it. The examples need Java 17 or newer.
 
