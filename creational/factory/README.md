@@ -1,25 +1,8 @@
 # Factory
 
-Java project for the Factory pattern examples.
+Two Factory Method examples.
 
-## Project layout
+- `Classwork-1` — Java and C++ developers
+- `Classwork-2` — Payme and Click payments
 
-```
-src/
-  Main.java
-```
-
-Open this folder in IntelliJ IDEA (`Factory.iml`) or in VS Code / Cursor. Source lives in `src`, and compiled classes go to `out`.
-
-## Requirements
-
-Java 17 or newer.
-
-## Run
-
-From this directory:
-
-```bash
-javac -d out src/*.java
-java -cp out Main
-```
+Open either folder on its own. Source lives in `src`, and compiled classes go to `out`.
