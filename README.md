@@ -23,6 +23,18 @@ Each folder has its own README with what the classes do and how to run it. The e
 | --- | --- | --- |
 | Bridge classwork | [`structural/bridge/classwork`](structural/bridge/classwork) | Starting point for the Bridge pattern classwork. |
 
+## Decorator
+
+| Example | Folder | What it shows |
+| --- | --- | --- |
+| Decorator | [`structural/decorators`](structural/decorators) | Starting point for the Decorator pattern examples. |
+
+## Facade
+
+| Example | Folder | What it shows |
+| --- | --- | --- |
+| Facade | [`structural/facade`](structural/facade) | Starting point for the Facade pattern examples. |
+
 ## Adding the next example
 
 Create a folder in this repository, for example `creational/singleton/Logger`, put the source and a README there, then commit and push **this** repository. New examples are not published as separate GitHub repositories.
